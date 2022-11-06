@@ -1,0 +1,10 @@
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\bin\Debug\cekilisProgrami.exe.config
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\bin\Debug\cekilisProgrami.exe
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\bin\Debug\cekilisProgrami.pdb
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\obj\Debug\cekilisProgrami.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\obj\Debug\cekilisProgrami.Form1.resources
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\obj\Debug\cekilisProgrami.Properties.Resources.resources
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\obj\Debug\cekilisProgrami.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\obj\Debug\cekilisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\obj\Debug\cekilisProgrami.exe
+C:\Users\yigit\source\repos\cekilisProgrami\cekilisProgrami\obj\Debug\cekilisProgrami.pdb
